@@ -45,8 +45,8 @@
                         android:textStyle="bold" />
 
                     <ImageView
-                        android:layout_width="20dp"
-                        android:layout_height="20dp"
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
                         android:layout_margin="7dp"
                         android:src="@drawable/num9"></ImageView>
                 </LinearLayout>
